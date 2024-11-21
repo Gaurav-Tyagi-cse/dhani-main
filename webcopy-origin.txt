@@ -1,0 +1,720 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\ajax\libs\jquery\3.5.1\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/simple-notify@0.5.4/dist/simple-notify.min.css
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\simple-notify@0.5.4\dist\simple-notify.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/simple-notify@0.5.4/dist/simple-notify.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\simple-notify@0.5.4\dist\simple-notify.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\ajax\libs\popper.js\1.16.0\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\ajax\libs\typed.js\1.1.1\typed.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.dhani.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800
+File Name: C:\Downloaded Web Sites\www.dhani.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.dhani.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.dhani.com\bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://static.addtoany.com/menu/page.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\menu\page.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/comments/feed/
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dhani.com/services/dhani-no-emi-loan/
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\dhani-no-emi-loan\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dhani.com/services/dhani-no-emi-loan/?srsltid=AfmBOoohxm1aHsDgTa09SPf4rpnbPLmHYByo6JGppQpAD66JvNSFtcxK
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\dhani-no-emi-loan\index.htm
+Content Type: text/html
+
+Uri: https://www.dhani.com/services/feed/
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.dhani.com/services/wp-content/includes/captcha/captcha_header.php
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\includes\captcha\captcha_header.php
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/includes/captcha/xreload_icon.png.pagespeed.ic.P137v0-Ol6.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\includes\captcha\xreload_icon.png.pagespeed.ic.P137v0-Ol6.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/includes/smsapp.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\includes\smsapp.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\add-to-any\addtoany.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\add-to-any\addtoany.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\js\dist\vc_grid.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\bower\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/css/lightbox.min.css?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\lightbox2\dist\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/js/lightbox.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\lightbox2\dist\js\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\owl-carousel2-dist\assets\owl.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\owl-carousel2-dist\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.8.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.5
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\megamenu\js\maxmegamenu.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/popup-message-contact-form-7/css/style.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\popup-message-contact-form-7\css\style.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/popup-message-contact-form-7/css/sweetalert2.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\popup-message-contact-form-7\css\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/popup-message-contact-form-7/js/jscolor.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\popup-message-contact-form-7\js\jscolor.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/popup-message-contact-form-7/js/popupscript.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\popup-message-contact-form-7\js\popupscript.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/popup-message-contact-form-7/js/sweetalert2.all.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\popup-message-contact-form-7\js\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/timeline-and-history-slider/assets/css/slick-slider-style.css?ver=2.0.5
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\timeline-and-history-slider\assets\css\slick-slider-style.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.0.5
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\timeline-and-history-slider\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/animate.min.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\background-style.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/info-box.min.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\info-box.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/modal.min.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\modal.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\style.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\custom.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/info-box.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\info-box.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\jquery-appear.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modal-all.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\modal-all.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modernizr-custom.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\modernizr-custom.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate-params.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate_bg.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/unlimited-elementor-inner-sections-by-taspristudio/public/css/euis-public.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\unlimited-elementor-inner-sections-by-taspristudio\public\css\euis-public.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/unlimited-elementor-inner-sections-by-taspristudio/public/js/euis-public.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\unlimited-elementor-inner-sections-by-taspristudio\public\js\euis-public.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/wp-carousel-free/public/css/font-awesome.min.css?ver=2.4.4
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\wp-carousel-free\public\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/wp-carousel-free/public/css/slick.min.css?ver=2.4.4
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\wp-carousel-free\public\css\slick.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/wp-carousel-free/public/css/wp-carousel-free-public.min.css?ver=2.4.4
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\wp-carousel-free\public\css\wp-carousel-free-public.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/plugins/wp-carousel-free/public/js/slick.min.js?ver=2.4.4
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\wp-carousel-free\public\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/plugins/wp-carousel-free/public/js/wp-carousel-free-public.min.js?ver=2.4.4
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\plugins\wp-carousel-free\public\js\wp-carousel-free-public.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/aos.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\aos.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/base.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\base.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/components.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\components.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/custom-mkr.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\custom-mkr.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/layout.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\layout.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/nav.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\nav.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/css/typography.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\css\typography.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/js/aos.js
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\js\aos.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/themes/dhani/style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\themes\dhani\style.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/cropped-dhani-logo2-180x180.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\cropped-dhani-logo2-180x180.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/cropped-dhani-logo2-192x192.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\cropped-dhani-logo2-192x192.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/cropped-dhani-logo2-32x32.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\cropped-dhani-logo2-32x32.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/Group,402x.png.pagespeed.ce.S0JFxlWYGK.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\Group,402x.png.pagespeed.ce.S0JFxlWYGK.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/Group@2x-1.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\Group@2x-1.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2020/10/xrating-300x46.png.pagespeed.ic.dhHsSGjIbg.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2020\10\xrating-300x46.png.pagespeed.ic.dhHsSGjIbg.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/777x437_2.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\777x437_2.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/blog-01.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\blog-01.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/career-banner.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\career-banner.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/dhani-credit-line.jpg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\dhani-credit-line.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8872.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8872.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8873.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8873.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8874.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8874.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8875.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8875.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8876.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8876.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/Group-8877.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\Group-8877.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/stocks-sub-banner.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\stocks-sub-banner.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xcurrency.png.pagespeed.ic.wUygQ8ULSe.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xcurrency.png.pagespeed.ic.wUygQ8ULSe.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xexchange.png.pagespeed.ic.akuDR03v-T.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xexchange.png.pagespeed.ic.akuDR03v-T.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xGroup-8874.png.pagespeed.ic.eirf8tTuLF.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xGroup-8874.png.pagespeed.ic.eirf8tTuLF.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xonline-banking.png.pagespeed.ic.ogBj8lmbm1.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xonline-banking.png.pagespeed.ic.ogBj8lmbm1.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xpin.png.pagespeed.ic.TdYGeYJck0.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xpin.png.pagespeed.ic.TdYGeYJck0.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xright-image.png.pagespeed.ic.HqXk9BahKu.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xright-image.png.pagespeed.ic.HqXk9BahKu.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/01/xsuitcase-with-white-details.png.pagespeed.ic.1L0Bb0XgwK.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\01\xsuitcase-with-white-details.png.pagespeed.ic.1L0Bb0XgwK.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/5-reasons-to-get-fre-cahback-card.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\5-reasons-to-get-fre-cahback-card.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-0-interest.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-0-interest.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-cashback-icon.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-cashback-icon.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-done-icon.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-done-icon.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-download-icon.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-download-icon.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-payback.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-payback.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/nel-upload-icon.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\nel-upload-icon.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/no-emi-bnr-forground-300x280.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\no-emi-bnr-forground-300x280.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/no-emi-bnr-forground.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\no-emi-bnr-forground.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/process-arrow.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\process-arrow.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/03/xno-emi-logo.png.pagespeed.ic.sHObyEOBwv.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\03\xno-emi-logo.png.pagespeed.ic.sHObyEOBwv.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/04/offertag-icon.png.pagespeed.ce.nr3cHhZvSy.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\04\offertag-icon.png.pagespeed.ce.nr3cHhZvSy.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/04/xxdoctor-bgs.png.pagespeed.ic.MChp64Ewen.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\04\xxdoctor-bgs.png.pagespeed.ic.MChp64Ewen.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/05/xFCC-Website-Banner-background_1440px-X-530px.png.pagespeed.ic.9aEHokRE8P.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\05\xFCC-Website-Banner-background_1440px-X-530px.png.pagespeed.ic.9aEHokRE8P.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/06/COVID-KIT-BG.jpg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\06\COVID-KIT-BG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/06/main-bnr-bg.jpg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\06\main-bnr-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/arrow-left.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\arrow-left.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/arrow-right.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\arrow-right.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/award-bg.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\award-bg.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/check-1.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\check-1.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/podcastbg.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\podcastbg.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/08/xbbg-latest.png.pagespeed.ic.7eJ6GN4Dj1.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\08\xbbg-latest.png.pagespeed.ic.7eJ6GN4Dj1.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/09/dof-offer-hp-bnr.jpg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\09\dof-offer-hp-bnr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/09/offer-calendar.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\09\offer-calendar.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/10/dof-hp-bnr-mobile.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\10\dof-hp-bnr-mobile.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/10/dof-hp-bnr-mobile.png.pagespeed.ce.Ldc32Oj80R.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\10\dof-hp-bnr-mobile.png.pagespeed.ce.Ldc32Oj80R.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/10/dof-hp-bnr-new.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\10\dof-hp-bnr-new.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/10/dof-hp-bnr-new.png.pagespeed.ce.YCU_K8euyS.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\10\dof-hp-bnr-new.png.pagespeed.ce.YCU_K8euyS.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2021/10/freedon-flag-dof.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2021\10\freedon-flag-dof.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/01/call-n-trade-bg.jpg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\01\call-n-trade-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/01/stock-list-strar.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\01\stock-list-strar.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/01/xskf-01.png.pagespeed.ic.4tNyUqTopw.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\01\xskf-01.png.pagespeed.ic.4tNyUqTopw.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/01/xskf-02.png.pagespeed.ic.dFkLCGNRSM.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\01\xskf-02.png.pagespeed.ic.dFkLCGNRSM.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/01/xskf-03.png.pagespeed.ic.Ft8zJwt_Yj.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\01\xskf-03.png.pagespeed.ic.Ft8zJwt_Yj.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/02/xlogo2022-01.png.pagespeed.ic.vEoxm974Qa.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\02\xlogo2022-01.png.pagespeed.ic.vEoxm974Qa.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/03/Safeguard-yourself-againt-financial-frauds.pdf
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\03\Safeguard-yourself-againt-financial-frauds.pdf
+Content Type: application/pdf
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2022/05/whistleblower_policy_dhani.pdf
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2022\05\whistleblower_policy_dhani.pdf
+Content Type: application/pdf
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2023/05/newdhani_logo.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2023\05\newdhani_logo.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2023/05/xnewphone-dhani.png.pagespeed.ic.AMFs_7DESE.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2023\05\xnewphone-dhani.png.pagespeed.ic.AMFs_7DESE.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2023/09/Board&Committees_DSL.pdf
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2023\09\Board&Committees_DSL.pdf
+Content Type: application/pdf
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/dhani-pay.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\dhani-pay.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/Dhani-White-loo.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\Dhani-White-loo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/dhanistocks.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\dhanistocks.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/facebook-icon.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\facebook-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/linkdin.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\linkdin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/loansandservices
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\loansandservices
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/twitter-icon.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/02/xinstagram-icon.png.pagespeed.ic.2l3Vl-LlB8.png
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\02\xinstagram-icon.png.pagespeed.ic.2l3Vl-LlB8.png
+Content Type: image/png
+
+Uri: https://www.dhani.com/services/wp-content/uploads/2024/06/location-mark.svg
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\2024\06\location-mark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dhani.com/services/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1731912278
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\essential-addons-elementor\734e5f942.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1731912301
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1731912278
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\essential-addons-elementor\734e5f942.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1731912301
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-content/uploads/maxmegamenu/style.css?ver=d569a0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\maxmegamenu\style.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.8
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-content\uploads\smile_fonts\Defaults\Defaults.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-includes/css/dashicons.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.16
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\renderers\vimeo.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.dhani.com/services/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.dhani.com/services/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.dhani.com/services/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.dhani.com\services\xmlrpc.php
+Content Type: text/xml
+
